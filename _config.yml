@@ -24,13 +24,13 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 locale: "zh-CN"
-title: PostgreSQL
+title: Bill's Blog
 email: billtian945@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://billtian.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 repository: billtian/billtian.github.io
 
@@ -101,19 +101,19 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
+      url: https://twitter.com/BillTian945
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url:
+      url: https://www.facebook.com/bill.tian.54
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: https://github.com/billtian
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
-      # url:
+      url: https://gitlab.com/BillTian
     - label: "Bitbucket"
       icon: "fab fa-fw fa-bitbucket"
-      # url:
+      url: https://bitbucket.org/billtian
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
